@@ -1,0 +1,3 @@
+https://kkdevops.hashnode.dev/deploying-a-3-tier-application-react-node-js-mongodb-with-nginx-reverse-proxy
+
+https://kkdevops.hashnode.dev/scaling-to-a-3-tier-architecture-on-aws-with-nginx-react-node-js-mongodb
